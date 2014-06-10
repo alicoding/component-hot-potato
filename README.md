@@ -1,4 +1,4 @@
-component-random-number
-=======================
+Hot Potato Component
+====================
 
-Generates and broadcasts a random number based on a set of criteria.
+A Component for http://apps.webmaker.org/ integral for the hot potato game.
