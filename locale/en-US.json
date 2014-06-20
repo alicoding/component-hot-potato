@@ -5,8 +5,8 @@
   "ceci-hot-potato/finish/description": "Sends a message that the game is over.",
   "ceci-hot-potato/start/description": "Starts a new game.",
   "ceci-hot-potato/start/label": "New Game",
-  "ceci-hot-potato/min/description": "",
+  "ceci-hot-potato/min/description": "Minimum",
   "ceci-hot-potato/min/label": "Min",
-  "ceci-hot-potato/max/description": "",
+  "ceci-hot-potato/max/description": "Maximum",
   "ceci-hot-potato/max/label": "Max"
 }
